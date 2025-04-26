@@ -8,3 +8,4 @@ seaborn
 pickle
 unpickle
 load_components
+pip install --upgrade pip
