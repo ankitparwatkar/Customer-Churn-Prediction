@@ -6,7 +6,7 @@ Here’s a polished and engaging **README.md** description for your **Customer C
 # **📊 Customer Churn Prediction Dashboard**  
 **Predict customer attrition risk with AI-powered insights**  
 
-![Streamlit App](https://customer-churn-prediction-ankit-parwatkar.streamlit.app/)   
+(https://customer-churn-prediction-ankit-parwatkar.streamlit.app/)   
 
 A **Streamlit-powered** interactive dashboard that predicts customer churn probability using a **deep neural network** (TensorFlow). Designed for businesses to proactively retain at-risk customers by analyzing key behavioral and demographic factors.  
 
@@ -52,7 +52,7 @@ A **Streamlit-powered** interactive dashboard that predicts customer churn proba
 ---
 
 ## **📈 Sample Output**  
-![Dashboard Preview](https://via.placeholder.com/800x500/3498db/FFFFFF?text=Customer+Churn+Prediction+Dashboard)  
+![Dashboard Preview](https://github.com/ankitparwatkar/Customer-Churn-Prediction/blob/main/Screenshot_26-4-2025_1569_customer-churn-prediction-ankit-parwatkar.streamlit.app.jpeg)  
 *(Replace with an actual screenshot of your app)*  
 
 ---
