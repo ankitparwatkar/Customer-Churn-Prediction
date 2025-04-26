@@ -53,7 +53,6 @@ A **Streamlit-powered** interactive dashboard that predicts customer churn proba
 
 ## **📈 Sample Output**  
 ![Dashboard Preview](https://github.com/ankitparwatkar/Customer-Churn-Prediction/blob/main/Screenshot_26-4-2025_1569_customer-churn-prediction-ankit-parwatkar.streamlit.app.jpeg)  
-*(Replace with an actual screenshot of your app)*  
 
 ---
 
