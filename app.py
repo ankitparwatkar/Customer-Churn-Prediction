@@ -62,7 +62,7 @@ st.markdown("""
         color: white;
     }
     .feature-importance {
-        background-color: white;
+        background-color: black;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
