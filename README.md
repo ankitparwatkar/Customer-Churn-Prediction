@@ -1,8 +1,3 @@
-# Customer-Churn-Prediction
-Here’s a polished and engaging **README.md** description for your **Customer Churn Prediction** project on GitHub. This highlights the purpose, features, and technical aspects while maintaining a professional yet appealing tone:
-
----
-
 # **📊 Customer Churn Prediction Dashboard**  
 **Predict customer attrition risk with AI-powered insights**  
 
