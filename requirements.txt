@@ -9,3 +9,4 @@ pickle
 unpickle
 load_components
 pip install --upgrade pip
+non zero exit code
